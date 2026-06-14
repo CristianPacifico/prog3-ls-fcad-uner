@@ -123,6 +123,19 @@ cd prog3-ls-fcad-uner
 
 ---
 
+### Capítulo 10: Mapas y Tablas Hash
+
+
+| # | Notebook | Tipo | Abrir en Colab |
+|---|----------|------|----------------|
+| 1 | Map ADT e Implementación con Lista No Ordenada | 📖 Teoría | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/CristianPacifico/prog3-ls-fcad-uner/blob/main/cap10/01_Maps_ADT_HashTables_Teoria.ipynb) |
+| 2 | Implementación de Tablas Hash | 📖 Teoría | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/CristianPacifico/prog3-ls-fcad-uner/blob/main/cap10/02_HashTables_Implementacion_Teoria.ipynb) |
+| 3 | Mapas Ordenados, Skip Lists y Conjuntos | 📖 Teoría | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/CristianPacifico/prog3-ls-fcad-uner/blob/main/cap10/03_SortedMaps_SkipLists_Sets_Teoria.ipynb) |
+| 4 | Ejercicios: Maps ADT y Tablas Hash | ✏️ Ejercicios | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/CristianPacifico/prog3-ls-fcad-uner/blob/main/cap10/Ejercicios_Clase1_Maps_Hash.ipynb) |
+| 5 | Ejercicios: SortedTableMap, Skip Lists y Conjuntos | ✏️ Ejercicios | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/CristianPacifico/prog3-ls-fcad-uner/blob/main/cap10/Ejercicios_Clase2_SortedMaps_Sets.ipynb) |
+
+---
+
 ## 📋 Licencia y uso
 
 Los notebooks son material didáctico elaborado para la cátedra. Se permite su uso con fines educativos citando la fuente.
