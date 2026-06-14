@@ -111,9 +111,15 @@ cd prog3-ls-fcad-uner
 | 4 | Ejercicios Clase 1: Fundamentos | ✏️ Ejercicios | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/CristianPacifico/prog3-ls-fcad-uner/blob/main/cap08/Ejercicios_Clase1_Fundamentos.ipynb) |
 | 5 | Ejercicios Clase 2: Implementación | ✏️ Ejercicios | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/CristianPacifico/prog3-ls-fcad-uner/blob/main/cap08/Ejercicios_Clase2_Implementacion.ipynb) |
 
----
+### Capítulo 9: Colas de Prioridad (Heaps)
 
-**Total de notebooks:** 38
+| # | Notebook | Tipo | Abrir en Colab |
+|---|----------|------|----------------|
+| 1 | Cola de Prioridad ADT e Implementaciones con Listas | 📖 Teoría | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/CristianPacifico/prog3-ls-fcad-uner/blob/main/cap09/01_PriorityQueue_ADT_Teoria.ipynb) |
+| 2 | Heaps e Implementación con `HeapPriorityQueue` | 📖 Teoría | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/CristianPacifico/prog3-ls-fcad-uner/blob/main/cap09/02_Heaps_Implementacion_Teoria.ipynb) |
+| 3 | Sorting con PQ y Colas de Prioridad Adaptables | 📖 Teoría | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/CristianPacifico/prog3-ls-fcad-uner/blob/main/cap09/03_Sorting_Heaps_Adaptables_Teoria.ipynb) |
+| 4 | Ejercicios Clase 1: Priority Queue ADT e Implementaciones con Listas | ✏️ Ejercicios | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/CristianPacifico/prog3-ls-fcad-uner/blob/main/cap09/Ejercicios_Clase1_PQ_Listas.ipynb) |
+| 5 | Ejercicios Clase 2: Heaps, Heap-Sort y heapq | ✏️ Ejercicios | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/CristianPacifico/prog3-ls-fcad-uner/blob/main/cap09/Ejercicios_Clase2_Heaps_Sorting.ipynb) |
 
 ---
 
